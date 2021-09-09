@@ -3,7 +3,7 @@
 
 <h1 align="center">Hello ,World! 👋 </h1>
 
-<h3 align="center">Welcome to My github!My name is Vijay and I am a Python developer-a upcoming programmer.I am mainly interested in Machine learning,Artificial intelligence and all those cool stuffs.Coder with a ♥️ of Creator</h3>
+<h3 align="center">Welcome to My github!My name is Vijay and I am a Python developer-a upcoming programmer.I am mainly interested in Machine learning,Artificial intelligence and all those cool stuffs.Coder with a ♥️ of Creator. I like learning and experimenting with new technologies, building projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay24-hub&label=Profile%20views&color=0e75b6&style=flat" alt="vijay24-hub" /> </p>
 
@@ -23,3 +23,4 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijay24-hub&" alt="vijay24-hub" /></p>
 
+<p><img align="center" src="https://raw.githubusercontent.com/Vijay24-hub/Vijay24-hub/master/resources/Footer.png" alt="footer"></p>
