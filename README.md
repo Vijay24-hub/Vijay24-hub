@@ -1,7 +1,7 @@
 
 ![Seagreen and Navy Globe Model Twitch Banner (2)](https://user-images.githubusercontent.com/85401159/120897665-f7a82600-c644-11eb-9e53-90963ccf3e39.gif)
 
-<h1 align="center">Hello ,World! 👋 </h1>
+# Hello, World! <img src="https://raw.githubusercontent.com/Vijay24-hub/Vijay24-hub/master/resources/waving.gif" width="35px">
 
 <h3 align="center">Welcome to My github!My name is Vijay. I am a Python developer-a upcoming programmer.I am mainly interested in Machine learning,Artificial intelligence and all those cool stuffs. I like learning and experimenting with new technologies, building projects.Coder with a ♥️ of Creator.</h3>
 
