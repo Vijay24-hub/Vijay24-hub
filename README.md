@@ -52,9 +52,9 @@
 
 <h3 align="left"> 🚀 Connect with me</h3>
 <p align="center">
-<a href="https://instagram.com/_._._vij_a_y_._ism" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="_._._vij_a_y_._ism" height="30" width="130" /></a>
-<a href="https://linkedin.com/in/vijay-n-7a30a6217" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="vijay-n-7a30a6217" height="30" width="130" /></a> 
-<a href="mailto:visionvijay09@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="" height="30" width="130" /></a> 
+<a href="https://instagram.com/_._._vij_a_y_._ism" target="blank"><img align="center" src="https://img.shields.io/badge/-INSTAGRAM-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/_._._vij_a_y_._ism/" alt="_._._vij_a_y_._ism" height="20" width="100" /></a>
+<a href="https://linkedin.com/in/vijay-n-7a30a6217" target="blank"><img align="center" src="https://img.shields.io/badge/-LINKEDIN-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vijay-n-7a30a6217/" alt="vijay-n-7a30a6217" height="20" width="100" /></a> 
+<a href="mailto:visionvijay09@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/GMAIL-white?style=plastic&logo=Gmail&logoColor=&link=mailto:visionvijay09@gmail.com" alt="" height="20" width="100" /></a> 
 </p>
 <br>
 <p><img align="center" src="https://raw.githubusercontent.com/Vijay24-hub/Vijay24-hub/master/resources/Footer.png" alt="footer"></p>
