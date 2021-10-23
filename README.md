@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay24-hub&label=Profile%20views&color=0e75b6&style=flat" alt="vijay24-hub" /> </p>
 
- <p><img align="right" src="https://raw.githubusercontent.com/Vijay24-hub/Vijay24-hub/master/resources/LDR_Robot-1.gif" alt="footer"></p>
  
 ### 🛠 &nbsp;Tech Stack
 
